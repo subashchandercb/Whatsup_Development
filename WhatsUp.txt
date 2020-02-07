@@ -1,9 +1,13 @@
-Whatsup
+This is Whatsup code
 
 Author:subashchander
 
-Project code
+1.Profile Page code:
 
-Last seen date
+2.Chat Screen Code:
 
-Attachment (Image,video,Audio) files
+3.Last seen code:
+
+4.Attachment (Image,video,Audio) code:
+
+Hiding the last seen
